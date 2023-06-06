@@ -1,0 +1,11 @@
+* git init
+* git add .
+* git status
+* git branch -M
+* git commit -m
+* git push
+* git branch
+* git checkout
+* mkdir
+* touch
+* mv
