@@ -1,0 +1,4 @@
+* MotherBoard
+* CPU
+* GPU
+* Memoria Ram

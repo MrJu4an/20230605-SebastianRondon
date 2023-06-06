@@ -1,0 +1,6 @@
+* mkdir
+* git init
+* git add
+* git commit -m
+* git branch
+* git checkout
